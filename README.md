@@ -2,6 +2,8 @@
 
 基于QT开发的串口调试助手
 
+# <img title="" src="file:///C:/Users/MeatyBio/Pictures/Typedown/af7b6e58-8a25-487a-a9be-a807b524443d.png?msec=1755183992162" alt="af7b6e588a25487aa9bea807b524443d" style="zoom:67%;">
+
 # 《RobotLab 专用串口调试助手》软件介绍
 
 ## 一、软件基本信息
